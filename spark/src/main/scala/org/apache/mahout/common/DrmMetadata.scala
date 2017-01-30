@@ -32,7 +32,7 @@ class DrmMetadata(
     ) {
 
   import DrmMetadata._
-
+   
   val (
 
       /** Actual drm key class tag once converted out of writable */
