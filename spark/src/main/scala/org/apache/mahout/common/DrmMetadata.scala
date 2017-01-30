@@ -29,7 +29,7 @@ class DrmMetadata(
     /** Value writable type, as a sub-type of Writable */
     val valueTypeWritable: Class[_]
 
-    ) {
+    ) {   
 
   import DrmMetadata._
 
